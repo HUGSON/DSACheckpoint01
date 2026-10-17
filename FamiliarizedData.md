@@ -5,3 +5,6 @@
 ## 2.
 
 
+I'm not familiarized with these data structures and algorithms because I have not used them in a project before>
+
+
