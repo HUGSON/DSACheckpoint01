@@ -2,9 +2,11 @@
 
 ## 1. BINARY HEAP
 
-## 2.
+## 2. Bitmask
+
+## 2. Min Vertex Cover
 
 
-I'm not familiarized with these data structures and algorithms because I have not used them in a project before>
+I'm not familiarized with these data structures and algorithms because I have not used them in a project before.
 
 
